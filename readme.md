@@ -20,7 +20,7 @@ Auto tap-tap for onchaincoin_bot telegram.
 1. Make sure your machine ha s python and git installed. If not, search on google how to install it.
 2. Clone this repository
 	```
-	git clone https://github.com/akasakaid/onchenbot.git
+	git clone https://github.com/rmndkyl/onchenbot.git
 	```
 3. Move to onchenbot directory
 	```
@@ -41,12 +41,6 @@ Auto tap-tap for onchaincoin_bot telegram.
 | interval   | delay between every click or request                 |
 | sleep      | delay if you energy is empty or react minimum energy |
 | min_energy | minimum energy to enter sleep mode                   |
-
-## Support
-
-To support me you can buy me a coffee via website in below:
- - [https://trakteer.id/fawwazthoerif/tip](https://trakteer.id/fawwazthoerif/tip)
- - [https://sociabuzz.com/fawwazthoerif/tribe](https://sociabuzz.com/fawwazthoerif/tribe)
 
 ## Report
 
