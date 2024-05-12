@@ -171,7 +171,7 @@ class OnchainBot:
         }
         while True:
             try:
-                click = random.randint(1, 10)
+                click = random.randint(15, 50)
                 _data = {"clicks": click}
                 res = requests.post(url, json=_data, headers=_headers, timeout=100)
 
@@ -212,8 +212,8 @@ class OnchainBot:
         banner = f"""
     {hijau}Auto tap-tap @onchaincoin_bot
     
-    {biru}By t.me/AkasakaID
-    github : @AkasakaiD{reset}
+    {biru}By t.me/rmndkyl
+    github : @rmndkyl{reset}
         """
         os.system('cls' if os.name == 'nt' else 'clear')
         print(banner) 
