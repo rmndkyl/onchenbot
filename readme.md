@@ -6,7 +6,7 @@ Auto tap-tap for onchaincoin_bot telegram.
 [https://t.me/onchaincoin_bot?start=user_629438076](https://t.me/onchaincoin_bot?start=user_1681873043)
 
 ## Reminder
-> I am not responsible for what happens on your account.
+> **I am not responsible for what happens on your account. I recommend using accounts that you don't mind losing, as there is always a risk of getting banned.**
 
 ## Author note
 > 1. This program only 1-time telegram login to get data for login on onchaincoin_bot
